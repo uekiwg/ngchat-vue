@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "ngchat-vue": "ngchat-vue",
+    "default": "ngchat-vue"
+  }
+}
